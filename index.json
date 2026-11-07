@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "mobile-forge",
+  "versions": [
+    {
+      "commit": "7917b1591d13210eb3ae73ff3ace02fc0aac4779",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:17:43.769672+00:00"
+    }
+  ]
+}
