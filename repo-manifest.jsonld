@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beeware/mobile-forge/commit/7917b1591d13210eb3ae73ff3ace02fc0aac4779",
       "git:hexsha": "7917b1591d13210eb3ae73ff3ace02fc0aac4779",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:17:43.769060+00:00"
     }
   ]
 }
